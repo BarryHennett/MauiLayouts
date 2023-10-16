@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net7.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MauiTask3
+build_property.ProjectDir = C:\Users\harra\Desktop\Term 4\MauiTask3\MauiTask3\
+
+[C:/Users/harra/Desktop/Term 4/MauiTask3/MauiTask3/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiTask3.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/harra/Desktop/Term 4/MauiTask3/MauiTask3/Pages/AbsoluteLayoutDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiTask3.Pages.AbsoluteLayoutDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\AbsoluteLayoutDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\AbsoluteLayoutDemo.xaml
+
+[C:/Users/harra/Desktop/Term 4/MauiTask3/MauiTask3/Pages/FlexLayoutDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiTask3.Pages.FlexLayoutDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\FlexLayoutDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\FlexLayoutDemo.xaml
+
+[C:/Users/harra/Desktop/Term 4/MauiTask3/MauiTask3/Pages/GridDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiTask3.Pages.GridDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\GridDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\GridDemo.xaml
+
+[C:/Users/harra/Desktop/Term 4/MauiTask3/MauiTask3/Pages/HorizontalStackLayoutDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiTask3.Pages.HorizontalStackLayoutDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\HorizontalStackLayoutDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\HorizontalStackLayoutDemo.xaml
+
+[C:/Users/harra/Desktop/Term 4/MauiTask3/MauiTask3/Pages/StackLayoutDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiTask3.Pages.StackLayoutDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\StackLayoutDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\StackLayoutDemo.xaml
+
+[C:/Users/harra/Desktop/Term 4/MauiTask3/MauiTask3/Pages/VerticalStackLayoutDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiTask3.Pages.VerticalStackLayoutDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\VerticalStackLayoutDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\VerticalStackLayoutDemo.xaml
+
+[C:/Users/harra/Desktop/Term 4/MauiTask3/MauiTask3/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiTask3.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/harra/Desktop/Term 4/MauiTask3/MauiTask3/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiTask3.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

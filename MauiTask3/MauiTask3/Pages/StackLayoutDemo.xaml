@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiTask3.Pages.StackLayoutDemo"
+             Title="StackLayoutDemo"
+             BackgroundColor="White">
+
+    <ScrollView>
+        <StackLayout Padding="20" Spacing="20" Orientation="Horizontal"
+             HorizontalOptions="Center">
+        <Label Text=".NET MAUI Layouts" TextColor="Red"
+                   FontSize="25"
+                   FontAttributes="Bold"
+                   Margin="30"
+                   HorizontalOptions="Center"/>
+        <Button x:Name="verticalStackLayoutButton" Text="Vertical Stack Layout" class="verticalStackLayoutButton_Clicked"/>
+        <Button x:Name="horizontalStackLayoutButton" Text="Horizontal Stack Layout" class="horizontalStackLayoutButton_Clicked"/>
+        <Button x:Name="GridButton" Text="Grid" class="GridButton_Clicked"/>
+        <Button x:Name="absoluteLayoutButton" Text="Absolute Layout" BackgroundColor="#0061a7" TextColor="White" Clicked="absoluteLayoutButton_Clicked" />
+        <Button x:Name="flexLayoutButton" Text="Flex Layout" BackgroundColor="#0061a7" TextColor="White" Clicked="flexLayoutButton_Clicked" />
+    </StackLayout>
+    </ScrollView>
+
+</ContentPage>
